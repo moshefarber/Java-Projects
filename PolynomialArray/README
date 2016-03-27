@@ -1,0 +1,10 @@
+This program takes as input from the user: 2 polynomials of a chosen degree.
+Then it adds, subtracts, and multiplies the polynomials, and outputs it as a new polynomial.
+Also, it evaluates the polynomial at a given x value.
+The data structure used to store the polynomials is an  array. The index values are the powers or exponents, 
+and the values inside the indexes are the coefficients. 
+For example: The polynomial 3x^2 + 2x - 3 will be represented in an array as follows:
+-3 will be in index 0, (first index),
+2 will be in index 1 (second index),
+and 3 will be in index 2 (third index).  
+So we see that 3 in index 2 is the same as saying 3x^2   and so on.
