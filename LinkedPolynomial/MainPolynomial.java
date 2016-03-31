@@ -1,7 +1,6 @@
 /*
  * This program takes from user input 2 polynomials and then adds, subtracts, and multiplies them.
  * 
- * There are nested while loops in the linkedlist class, giving a time complexity of n^2.
  */
 
 import java.util.Scanner;
