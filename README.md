@@ -1,2 +1,2 @@
 # Java-Projects
-A collection of projects assigned in school. 
+A collection of Java projects assigned in school. 
